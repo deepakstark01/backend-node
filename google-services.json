@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "806161703728",
+    "project_id": "automartz-demo",
+    "storage_bucket": "automartz-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806161703728:android:336a702ddd9519249b1ef5",
+        "android_client_info": {
+          "package_name": "com.push_notifications_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806161703728-2ga2dhpd7jmi90lejmdnis44g4r70bcf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjfTELr69o0ThC_A7tmlObEmF0WZHCwEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806161703728-2ga2dhpd7jmi90lejmdnis44g4r70bcf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
